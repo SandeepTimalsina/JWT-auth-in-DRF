@@ -4,5 +4,9 @@ Here we have used token based authentication where access tokens and refresh tok
 Screenshots of the projects are below.
 
 This is a priview of first commit where we setup our JWT auth without any databases and students app.
-![vscode terminal]([image_url](https://github.com/SandeepTimalsina/JWT-auth-in-DRF/blob/main/screenshot_1/Screenshot%202024-05-27%20231858.png))
+![vscode terminal](screenshot_1/Screenshot 2024-05-27 231858.png)
+![Postman](screenshot_1/Screenshot 2024-05-27 231919.png)
+![JWT website](screenshot_1/Screenshot 2024-05-27 231939.png)
+![DRF api tester](screenshot_1/Screenshot 2024-05-27 232006.png)
+
 
