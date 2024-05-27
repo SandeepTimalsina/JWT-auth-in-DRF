@@ -28,6 +28,6 @@ urlpatterns = [
     path('api/gettoken/', TokenObtainPairView.as_view(), name='token_obtain_pair'),
     path('api/refreshtoken/', TokenRefreshView.as_view(), name='token_refresh'),
     path('api/verifytoken/', TokenVerifyView.as_view(), name='token_verify'),
-    path('accounts/',include('accounts.urls')),
+    path('students/',include('students.urls')),
 
 ]
